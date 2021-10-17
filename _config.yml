@@ -23,9 +23,10 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   woohan TDD 스터디 정리본 저장소입니다.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "woohan-tdd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  woohan-tdd
+domain: Woohan-TDD.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://Woohan-TDD.github.io # the base hostname & protocol for your site, e.g. http://example.com
+github_username: Woohan-TDD
 
 # Build settings
 theme: jekyll-text-theme
@@ -56,3 +57,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
