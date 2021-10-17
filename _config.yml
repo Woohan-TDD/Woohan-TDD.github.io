@@ -30,9 +30,9 @@ github_username: Woohan-TDD
 
 # Build settings
 theme: jekyll-text-theme
-text_skin: "dark"
-highlight_theme: "tomorrow-night"
-lang: "ko"
+text_skin: dark
+highlight_theme: tomorrow-night
+lang: ko
 timezone: Asia/Seoul
 
 plugins:
